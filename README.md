@@ -1,2 +1,2 @@
 # VueJS-WebApp
-Vue.js开发的灵活性带来快速开发
+基于Vue.js 制作的移动外卖 WebApp
