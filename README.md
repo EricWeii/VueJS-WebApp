@@ -35,7 +35,7 @@
 ---
 ### SRC文件夹目录 
 
-![SRC文件夹目录 ](https://raw.githubusercontent.com/EricWeii/IMG/master/preview/SRC%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.jpg)
+![SRC文件夹目录 ](https://raw.githubusercontent.com/EricWeii/IMG/d49d2a08f9c293d292a5b4b693c19e6beb670321/preview/SRC%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.jpg)
 
 ---
 ### 交互体验 
