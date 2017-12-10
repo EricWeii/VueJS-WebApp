@@ -5,8 +5,8 @@
   
 ---
 ### 视图层 
-![视图层预览](https://github.com/EricWeii/IMG/blob/master/preview/%E6%89%8B%E6%9C%BA%E6%95%88%E6%9E%9C%E5%9B%BE2-T2.jpg)
-![视图层预览](https://github.com/EricWeii/IMG/blob/master/preview/%E6%89%8B%E6%9C%BA%E6%95%88%E6%9E%9C%E5%9B%BE3.jpg)
+![视图层预览](https://raw.githubusercontent.com/EricWeii/IMG/master/preview/%E6%89%8B%E6%9C%BA%E6%95%88%E6%9E%9C%E5%9B%BE2-T2.jpg)
+![视图层预览](https://raw.githubusercontent.com/EricWeii/IMG/master/preview/%E6%89%8B%E6%9C%BA%E6%95%88%E6%9E%9C%E5%9B%BE3.jpg)
 
 ---
 ### 技术栈 
@@ -35,7 +35,7 @@
 ---
 ### SRC文件夹目录 
 
-![视图层预览](https://raw.githubusercontent.com/EricWeii/IMG/master/SRC%E7%9B%AE%E5%BD%95%E8%AF%B4%E6%98%8E.bmp)
+![SRC文件夹目录 ](https://raw.githubusercontent.com/EricWeii/IMG/master/preview/SRC%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.jpg)
 
 ---
 ### 交互体验 
