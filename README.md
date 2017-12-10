@@ -43,6 +43,8 @@
 ---
 ### 项目效果 
 
+![交互效果](https://github.com/EricWeii/IMG/blob/d49d2a08f9c293d292a5b4b693c19e6beb670321/preview/webapp.gif)
+
 ---
 ### 如何构建 
 
