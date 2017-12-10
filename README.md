@@ -14,24 +14,25 @@
 **-= 前端 =-**
 #### - VUE -
 
-- `VueJS`：用于构建用户界面的 MVVM 框架。它的核心是**响应的数据绑定**和**组系统件**
-- `vue-router`：为单页面应用提供的路由系统，项目上线前使用了 `Lazy Loading Routes` 技术来实现异步加载优化性能
-- `vue-resource`：
-- `better-scroll`：页面滚动插件，使移动端滑动体验更加流畅
-- `transition`：页面滚动插件，使移动端滑动体验更加流畅
+- `VueJS`： 只关注视图层， 是一套构建用户界面的渐进式 MVVM 框架。它的目标是**实现响应的数据绑**和**组合的视图组件**
+- `vue-router`：vue.js为方便构建单页面应用提供的一个路由插件
+- `vue-resource`：前端与服务端进行数据接口请求，实现项目的动态数据交互
+- `better-scroll`：移动端滚动的解决方案，使移动端滑动体验更加流畅
+- `transition`：Vue封装提供的过渡动画的内置组件
 
 #### - JS -
-- `ES6`：ECMAScript 新一代语法，模块化、解构赋值、Promise、Class 等方法非常好用
+- `ES6`：ECMAScript6 是JavaScript语言的新一代标准，提供了箭头函数、默认参数、字符串模板、for of 遍历、模块化、解构赋值、Promise、Class 等新特性
+
 #### - CSS -
 
-- `Less`：CSS 预编译处理器
+- `Less`：CSS 预编译处理器，增加了变量、Mixin、函数等特性，使 CSS 更易维护和扩展。
 
 **-= 自动化构建和其他工具 =-**
-#### - vue-cli -
-- `vue-cli`：Vue 脚手架工具，快速初始化项目代码
+#### - vue-cli -。
+- `vue-cli`：Vue 脚手架工具，可以快速构建 vue 项目。
 
 #### - ESLint -
-- `eslint`：代码风格检查工具，规范代码书写
+- `eslint`：JavaScript代码检测工具，规范代码书写，统一代码的风格。
 ---
 ### SRC文件夹目录 
 
@@ -41,7 +42,7 @@
 ### 交互体验 
 
 ---
-### 项目效果 
+### 交互效果 
 
 ![交互效果](https://github.com/EricWeii/IMG/blob/d49d2a08f9c293d292a5b4b693c19e6beb670321/preview/webapp.gif)
 
