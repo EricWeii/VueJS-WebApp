@@ -35,6 +35,8 @@
 ---
 ### SRC文件夹目录 
 
+![视图层预览](https://raw.githubusercontent.com/EricWeii/IMG/master/SRC%E7%9B%AE%E5%BD%95%E8%AF%B4%E6%98%8E.bmp)
+
 ---
 ### 交互体验 
 
