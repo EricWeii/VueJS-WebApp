@@ -28,7 +28,7 @@
 - `Less`：CSS 预编译处理器，增加了变量、Mixin、函数等特性，使 CSS 更易维护和扩展。
 
 **-= 自动化构建和其他工具 =-**
-#### - vue-cli -。
+#### - vue-cli -
 - `vue-cli`：Vue 脚手架工具，可以快速构建 vue 项目。
 
 #### - ESLint -
@@ -41,6 +41,9 @@
 ---
 ### 交互体验 
 
+- 使用better-scroll插件，实现所有页面涉及到的滚动效果，体验如原生APP般丝滑(#^.^#)
+- 使用vue内置transition组件，实现路由之间切换过渡动画。
+
 ---
 ### 交互效果 
 
@@ -48,6 +51,20 @@
 
 ---
 ### 如何构建 
+
+``` bash
+# clone the repo into your disk.
+$ git clone https://github.com/bxm0927/music-app.git
+
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:8080
+$ npm run dev
+
+# build for production with minification
+$ npm run build
+```
 
 ---
 ### 总结 
