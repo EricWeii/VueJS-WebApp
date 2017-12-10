@@ -54,27 +54,24 @@
 
 ``` bash
 # clone the repo into your disk.
-$ git clone https://github.com/bxm0927/music-app.git
+git clone https://github.com/EricWeii/VueJS-WebApp.git
 
 # install dependencies
-$ npm install
+npm install
 
 # serve with hot reload at localhost:8080
-$ npm run dev
+npm run dev
 
 # build for production with minification
-$ npm run build
+npm run build
 ```
 
 ---
 ### 总结 
 
-
-
-
-
-
-
-
-
-
+- 充分体验到 vue.js 数据驱动和组件化在开发中的灵活和高效
+- vue.js 社区和生态活跃度较高，总结一套常用的 vue 工具插件
+- 使用 vue 内置 transition 组件，让动画实现得更简单
+- 利用 vue 内置 JS动画hook 实现过渡动画效果，提高用户交互体验
+- ES6 提供的箭头函数、函数简写、字符串模板、模块化等新特性在实际开发带来的便捷和高效
+- ESLint 规范代码书写,可以避免低级错误和统一代码的风格，使代码的后期维护更高效
